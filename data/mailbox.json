@@ -1,0 +1,59 @@
+{
+  "account": { "name": "Emortaa", "email": "emortaa@gmail.com", "initial": "E", "avatarUrl": "" },
+  "categories": [
+    { "id": "promotions", "label": "Promociones", "summary": "Rubén · RubFitPro - Para esto...", "count": "71 nuevos", "accent": "#68db8f" },
+    { "id": "updates", "label": "Actualizaciones", "summary": "ChatGPT - Conserva los beneficios...", "count": "16 nuevos", "accent": "#ffd7c2" }
+  ],
+  "messages": [
+    { "id": "seedr-welcome", "sender": "Seedr", "email": "hello@seedr.cc", "avatarUrl": "", "avatarText": "S", "avatarColor": "#2ec96f", "subject": "Welcome to Seedr: Start Streaming Instantly", "preview": "Having trouble reading this email? Click here to view it online.", "body": ["Welcome to Seedr! Your account is ready to stream and download files instantly.", "Thanks for joining us."], "date": "25 sep", "time": "10:42 a.m.", "read": false, "starred": false, "kind": "plain", "folder": "primary" },
+    { "id": "google-data", "sender": "Google", "email": "no-reply@accounts.google.com", "avatarUrl": "", "avatarText": "G", "avatarColor": "#7fa9ff", "subject": "You shared some Google Account data", "preview": "Keep track of your Google Account data and the services you use.", "body": ["You recently allowed an app to access some data from your Google Account.", "You can review or remove access at any time from your account settings."], "date": "25 sep", "time": "9:18 a.m.", "read": false, "starred": false, "kind": "plain", "folder": "primary" },
+    { "id": "openai-signin", "sender": "OpenAI", "email": "noreply@openai.com", "avatarUrl": "", "avatarText": "AI", "avatarColor": "#f5f5f5", "avatarTextColor": "#101010", "subject": "New sign-in to your OpenAI account", "preview": "New sign-in details for your OpenAI account.", "body": ["We noticed a new sign-in to your OpenAI account.", "If this was you, no action is needed. If you don't recognize this activity, secure your account."], "date": "24 sep", "time": "8:54 p.m.", "read": false, "starred": false, "kind": "plain", "folder": "primary" },
+    { "id": "google-security", "sender": "Google", "email": "no-reply@accounts.google.com", "avatarUrl": "", "avatarText": "G", "avatarColor": "#8e48ee", "subject": "Security alert", "preview": "New sign-in to your account emortaa@gmail.com.", "body": ["A new sign-in was detected on your Google Account.", "If this was you, you don't need to do anything."], "date": "24 sep", "time": "5:33 p.m.", "read": true, "starred": false, "kind": "plain", "folder": "primary" },
+    { "id": "runpod-balance", "sender": "noreply", "email": "noreply@runpod.io", "avatarUrl": "", "avatarText": "", "avatarColor": "#5f6368", "subject": "Low Balance Warning", "preview": "Your account balance is low. Add funds to prevent service interruption.", "body": ["This is an automated notification that your account balance is low.", "Current balance: $-0.0962945819\nAlert Threshold: $5", "To prevent service interruption or automatic data deletion, please add funds to your account or retrieve your stored data as soon as possible.", "-The Runpod Team"], "date": "24 sep", "time": "6:18 p.m.", "read": true, "starred": false, "kind": "balance", "folder": "primary" },
+    { "id": "masvision-ticket", "sender": "clienteconfianza", "email": "clienteconfianza@masvision.mx", "avatarUrl": "", "avatarText": "C", "avatarColor": "#2ec96f", "subject": "Ticket de compra en Mas Vision: 12059-621613", "preview": "¡Gracias por tu compra! Consulta la fecha estimada de entrega.", "body": ["Nota #12059-621613", "Fecha de compra: 19/09/26 - 18:16:54.", "Cliente: CRISTOPHER JARED LOPEZ ARCILA", "Atendió: MAAS URRUTIA, MIGUEL ANGEL", "Fecha estimada de entrega: 28/09/26"], "date": "24 sep", "time": "7:57 p.m.", "read": true, "starred": false, "kind": "receipt", "folder": "primary" },
+    { "id": "ruben-regreso", "sender": "Rubén · RubFitPro", "email": "ruben@rubfitpro.mx", "avatarUrl": "", "avatarText": "R", "avatarColor": "#7fa9ff", "subject": "No sé si voy a volver", "preview": "Este año hay algo que se siente diferente...", "body": ["No sé si voy a volver, pero quería escribirte antes de tomar una decisión.", "Gracias por haber sido parte de RubFitPro."], "date": "24 sep", "time": "3:02 p.m.", "read": false, "starred": false, "kind": "plain", "folder": "primary" },
+    {
+      "id": "microsoft-2fa-support",
+      "sender": "Soporte Microsoft",
+      "email": "support@microsoft.com",
+      "recipient": "Soporte Microsoft 365",
+      "avatarUrl": "",
+      "avatarText": "M",
+      "avatarColor": "#1373e6",
+      "subject": "Ayuda para recuperar acceso — verificación en dos pasos",
+      "preview": "Solucionado: pude iniciar sesión y registrar nuevamente Microsoft Authenticator.",
+      "body": ["Conversación de soporte para recuperar el acceso a clopeza1701@alumno.ipn.mx."],
+      "date": "27 sep",
+      "time": "4:00 p.m.",
+      "read": true,
+      "starred": false,
+      "kind": "support-thread",
+      "folder": "sent",
+      "thread": [
+        { "role": "me", "sender": "Christopher Jared López", "email": "lopez17081@gmail.com", "recipient": "Soporte Microsoft 365", "date": "Jue, 24 sep, 8:00 a.m.", "avatarText": "C", "avatarColor": "#d01865", "text": "Buenos días. Solicito ayuda para recuperar el acceso a mi cuenta clopeza1701@alumno.ipn.mx. Después de cambiar de teléfono, la verificación en dos pasos continúa enviando la aprobación a Microsoft Authenticator del dispositivo anterior. No tengo acceso a ese equipo ni a otro método de verificación, por lo que no puedo entrar a Outlook ni a Microsoft 365. ¿Podrían ayudarme a restablecer el segundo factor?" },
+        { "role": "support", "sender": "Soporte Microsoft 365", "email": "support@microsoft.com", "recipient": "Christopher Jared López", "date": "Jue, 24 sep, 12:35 p.m.", "avatarText": "M", "avatarColor": "#1373e6", "text": "Hola, Christopher. Abrimos el caso MS-260924-1847. Para proteger la cuenta necesitamos confirmar si todavía puedes recibir mensajes en un correo alternativo y si tu institución cuenta con un administrador de Microsoft 365. No compartas contraseñas ni códigos de seguridad por este medio." },
+        { "role": "me", "sender": "Christopher Jared López", "email": "lopez17081@gmail.com", "recipient": "Soporte Microsoft 365", "date": "Vie, 25 sep, 9:10 a.m.", "avatarText": "C", "avatarColor": "#d01865", "text": "Gracias. Sí puedo responder desde mi correo alternativo y ya confirmé con Servicios Escolares que la cuenta está activa. Mi matrícula y mis datos coinciden con el registro institucional. El problema aparece justo después de escribir la contraseña: solo ofrece aprobar la solicitud en el teléfono anterior." },
+        { "role": "support", "sender": "Soporte Microsoft 365", "email": "support@microsoft.com", "recipient": "Christopher Jared López", "date": "Vie, 25 sep, 4:45 p.m.", "avatarText": "M", "avatarColor": "#1373e6", "text": "Gracias por la información. Como la cuenta pertenece al dominio alumno.ipn.mx, necesitamos que el administrador institucional autorice el restablecimiento de los métodos MFA. Pídele que genere una solicitud de restablecimiento y responde a este hilo con el número de referencia." },
+        { "role": "me", "sender": "Christopher Jared López", "email": "lopez17081@gmail.com", "recipient": "Soporte Microsoft 365", "date": "Sáb, 26 sep, 11:20 a.m.", "avatarText": "C", "avatarColor": "#d01865", "text": "El administrador del IPN ya confirmó mi identidad y generó la solicitud IPN-48271 para borrar el registro del teléfono anterior. Quedo atento por si necesitan alguna validación adicional." },
+        { "role": "support", "sender": "Soporte Microsoft 365", "email": "support@microsoft.com", "recipient": "Christopher Jared López", "date": "Dom, 27 sep, 1:15 p.m.", "avatarText": "M", "avatarColor": "#1373e6", "text": "La solicitud IPN-48271 fue validada y eliminamos los métodos de autenticación anteriores. Espera unos minutos, abre una ventana privada e inicia sesión nuevamente. El sistema te pedirá registrar Microsoft Authenticator o un teléfono nuevo. Si todavía ves el método anterior, cierra todas las sesiones y vuelve a intentarlo." },
+        { "role": "me", "sender": "Christopher Jared López", "email": "lopez17081@gmail.com", "recipient": "Soporte Microsoft 365", "date": "Dom, 27 sep, 4:00 p.m.", "avatarText": "C", "avatarColor": "#d01865", "text": "Confirmo que ya pude iniciar sesión. Registré Microsoft Authenticator en el teléfono nuevo y agregué un método alternativo. Outlook y Microsoft 365 funcionan correctamente. Muchas gracias por el seguimiento; pueden cerrar el caso como resuelto." }
+      ]
+    }
+  ],
+  "labels": [
+    { "id": "all", "label": "Recibidos (todos)", "count": "99+" },
+    { "id": "primary", "label": "Principal", "count": "99+" },
+    { "id": "social", "label": "Social", "count": "" },
+    { "id": "promotions", "label": "Promociones", "count": "71 nuevos" },
+    { "id": "notifications", "label": "Notificaciones", "count": "16 nuevos" },
+    { "id": "starred", "label": "Destacados", "count": "" },
+    { "id": "snoozed", "label": "Pospuestos", "count": "" },
+    { "id": "important", "label": "Importantes", "count": "10" },
+    { "id": "purchases", "label": "Compras", "count": "6" },
+    { "id": "receipts", "label": "Facturas", "count": "19" },
+    { "id": "sent", "label": "Enviados", "count": "" },
+    { "id": "scheduled", "label": "Programados", "count": "" },
+    { "id": "outbox", "label": "Bandeja de salida", "count": "" },
+    { "id": "drafts", "label": "Borradores", "count": "1" }
+  ]
+}
