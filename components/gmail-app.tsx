@@ -31,7 +31,10 @@ function Avatar({ message }: { message: Message }) {
 function DrawerContent({ active, onSelect }: { active: string; onSelect: (label: Label) => void }) {
   return (
     <div className="drawer-inner">
-      <header className="drawer-brand"><img src="/gmail-logo.png" alt="Gmail" /></header>
+      <header className="drawer-brand">
+        <span className="drawer-brand-icon"><img src="/gmail-logo.png" alt="" /></span>
+        <span className="drawer-brand-name">Gmail</span>
+      </header>
       <div className="drawer-rule" />
       <nav className="drawer-nav" aria-label="Carpetas de correo">
         {mailbox.labels.map((label, index) => {

@@ -1,4 +1,4 @@
-const CACHE = "gmail-ios-pwa-v2";
+const CACHE = "gmail-ios-pwa-v3";
 const APP_SHELL = ["/", "/manifest.webmanifest", "/favicon.svg", "/gmail-logo.png", "/icon-192.png", "/icon-512.png"];
 
 self.addEventListener("install", (event) => {
